@@ -76,6 +76,7 @@ mono_crash.*
 *.app
 
 # Permitir APKs dentro da pasta Builds
+!/[Bb]uilds/
 !/[Bb]uilds/*.apk
 
 # Crashlytics generated file
